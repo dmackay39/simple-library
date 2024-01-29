@@ -1,0 +1,17 @@
+.BookContainer {
+    display: flex;
+}
+
+.BookContainerContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    align-content:center;
+}
+
+.BookContainerContainer div {
+    margin: auto;
+}
